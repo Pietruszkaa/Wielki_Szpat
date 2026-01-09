@@ -1,0 +1,39 @@
+{
+  "channels": {
+    "welcome_channel_id": 1231231231231231231,
+    "goodbye_channel_id": 1231231231231231231,
+    "mc_status_channel_id": 1231231231231231231,
+    "member_count_channel_id": 1231231231231231231
+  },
+
+  "mc": {
+    "mc_address": "example.com",
+    "mc_port": 25565,
+    "mc_update_interval": 10
+  },
+
+  "texts": {
+    "welcome": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+
+    "goodbye": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ]
+  },
+
+  "embed_colors": {
+    "welcome_color": "#0f8b08",
+    "goodbye_color": "#bb2323"
+  },
+
+  "features": {
+    "enable_welcome": true,
+    "enable_goodbye": true,
+    "enable_mc_status": true
+  }
+}

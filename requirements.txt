@@ -1,0 +1,5 @@
+discord.py
+python-dotenv
+mcstatus
+pet-pet-gif
+Pillow
