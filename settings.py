@@ -1,30 +1,31 @@
 BOT_VERSION = "0.1.0"
 
 # ==== Channels ==== #
-WELCOME_CHANNEL_ID = 888451506402127973
-GOODBYE_CHANNEL_ID = 888552715922341969
-MC_STATUS_CHANNEL_ID = 1457828765223751762
-MC_STATUS_MESSAGE_ID = 1457832119467380854
-MEMBER_COUNT_CHANNEL_ID = 1458231426699755694
+WELCOME_CHANNEL_ID = 1
+GOODBYE_CHANNEL_ID = 1
+MC_STATUS_CHANNEL_ID = 1
+MC_STATUS_MESSAGE_ID = 1
+MEMBER_COUNT_CHANNEL_ID = 1
 
 # ==== Minecraft ==== #
-MC_ADDRESS = "szpatowice.playit.game"
+MC_ADDRESS = "example.com"
 MC_PORT = 25565
 MC_UPDATE_INTERVAL = 10
 
 # ==== Welcome texts ==== #
 WELCOME_TEXTS = [
-    "🔥 Wszedł jak do siebie",
-    "😈 Kolejna dusza do kolekcji",
-    "🗿 Odważny ruch",
-    "💀 Nie ma odwrotu",
+    "text 1",
+    "text 2",
+    "text 3",
+    "text 4",
 ]
 
 # ==== Goodbye texts ==== #
 GOODBYE_TEXTS = [
-    "🕯️ Pamiętajmy go takim, jakim był",
-    "🪦 R.I.P. połączenie z serwerem",
-    "🚪 Wyszedł. Drzwi się nie zamknęły.",
+    "text 1",
+    "text 2",
+    "text 3",
+    "text 4",
 ]
 
 # ==== Embed colors ==== #
