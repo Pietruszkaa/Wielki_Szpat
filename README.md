@@ -1,4 +1,4 @@
-# Wielki_Szpat 🤖
+# Wielki_Szpąt 🤖
 
 Discord bot project — from learning playground to full-featured, production-ready monster.
 
