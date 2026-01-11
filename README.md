@@ -120,7 +120,7 @@ learning by breaking things
 
 gradual improvement instead of premature perfection
 
-# Expect:
+### Expect:
 
 breaking changes between versions
 
@@ -162,3 +162,5 @@ This project is built as much for learning as for functionality.
 If you’re reading this while learning Python, Discord bots, or system design — you’re exactly the target audience.
 
 From chaos to architecture.
+
+# Chat GPT ahh Readme 💀 But will do for now.
